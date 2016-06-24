@@ -1,0 +1,30 @@
+{
+  "name": "express-forcehttps",
+  "version": "1.0.0",
+  "description": "Redirects requests to an express application to https",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.14.0",
+    "request": "^2.72.0",
+    "tape": "^4.6.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortenanders/express-forcehttps.git"
+  },
+  "keywords": [
+    "express",
+    "https",
+    "force"
+  ],
+  "author": "Morten Møller Petersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortenanders/express-forcehttps/issues"
+  },
+  "homepage": "https://github.com/mortenanders/express-forcehttps#readme"
+}
