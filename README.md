@@ -1,4 +1,5 @@
 # express-forcehttps
+  Force http requests to express to be redirected to https
 
 ## Installation
 
